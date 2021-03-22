@@ -1,1 +1,2 @@
 # Part-of-speech-Tagger-for-Different-Languages
+Constructed a part-of-speech tagger based on Hidden Markov Model (HMM) to add tags for Italian, Japanese, and an unknown language. Learnt an HMM through the training data (tokenized and tagged), recorded the model parameters, and run the model on test data. Unknown vocabulary and unseen transitions were handled using add- one smoothing method. The part-of-speech tagging achieved relatively high accuracy (more than 92%).
